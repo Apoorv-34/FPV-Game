@@ -31,8 +31,9 @@ The core foundation of the game is complete. I am currently refining the AI syst
 ---
 
 ## 👤 Developer
-* **Name:** [Your Name/Handle]
+* **Name:** Apoorv Goyal
 * **Role:** Solo Developer (Programming, Level Design, Asset Integration)
+* **Linkedin** www.linkedin.com/in/apoorv54
 
 ---
 
